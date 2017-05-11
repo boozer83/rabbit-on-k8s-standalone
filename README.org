@@ -57,5 +57,3 @@ Choices and tradeoffs are explained in detail at https://www.mirantis.com/blog/c
                 {'rabbit@172.17.0.3',[]}]}]
 
     #+END_EXAMPLE
-
-   
